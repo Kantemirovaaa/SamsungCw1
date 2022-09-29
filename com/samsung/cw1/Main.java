@@ -17,5 +17,16 @@ public class Main {
         System.out.println(aBoolean);
         char aChar = 'a';
         System.out.println((char) (97 + 1));
+        int a = 10, b = 5;
+        int res;
+        res = a + b;
+        System.out.println(res);
+        res = a -b;
+        System.out.println(res);
+        res = a * b;
+        System.out.println(res);
+        res = a / b;
+        System.out.println(res);
+
     }
 }
