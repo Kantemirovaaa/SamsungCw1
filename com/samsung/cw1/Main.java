@@ -33,5 +33,8 @@ public class Main {
         System.out.println(i++);//i = i + 1
         System.out.println(i--);//i = i -1
         System.out.println(i);
+        i += 5; //i = i + 5
+        i /= 2;// i = i / 2, +=, %=
+
     }
 }
