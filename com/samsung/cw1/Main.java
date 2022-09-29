@@ -1,7 +1,5 @@
 package com.samsung.cw1;
 
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         byte aByte = -128;
@@ -14,10 +12,10 @@ public class Main {
         System.out.println(aLong);
         double  aDouble = 8.3434343443;
         System.out.println(aDouble);
-        Scanner in = new Scanner(System.in);
-        aDouble = in.nextDouble();
-        System.out.println(aDouble);
-
-
+        //boolean aBoolean = true;
+        boolean aBoolean = 3 != 4;
+        System.out.println(aBoolean);
+        char aChar = 'a';
+        System.out.println((int)aChar);
     }
 }
