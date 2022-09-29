@@ -27,6 +27,11 @@ public class Main {
         System.out.println(res);
         res = a / b;
         System.out.println(res);
-
+        res = a % b;
+        System.out.println(res);
+        int i = 0;
+        System.out.println(i++);//i = i + 1
+        System.out.println(i--);//i = i -1
+        System.out.println(i);
     }
 }
