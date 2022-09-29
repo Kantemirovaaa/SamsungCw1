@@ -16,6 +16,6 @@ public class Main {
         boolean aBoolean = 3 != 4;
         System.out.println(aBoolean);
         char aChar = 'a';
-        System.out.println((int)aChar);
+        System.out.println((char)97 + 1);
     }
 }
