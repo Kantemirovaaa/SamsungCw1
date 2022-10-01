@@ -1,8 +1,18 @@
 package com.samsung.cw1;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        byte aByte = -128;
+        Scanner sc = new Scanner(System.in);
+        int n, h, m, s;
+        n = sc.nextInt();
+        h = n / 3600;
+        m = (n - (h * 3600)) / 60;
+        s = (n - (m * 60 + h * 3600));
+        System.out.println(h % 24 + ":" + m + ":" + s);
+
+        /*byte aByte = -128;
         short aShort = 30000;
         int aInt = 2000000000;
         long aLong = 20000000000L;
@@ -34,7 +44,7 @@ public class Main {
         System.out.println(i--);//i = i -1
         System.out.println(i);
         i += 5; //i = i + 5
-        i /= 2;// i = i / 2, +=, %=
+        i /= 2;// i = i / 2, +=, %=**/
 
     }
 }
