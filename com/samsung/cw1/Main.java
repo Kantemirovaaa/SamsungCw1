@@ -13,7 +13,7 @@ public class Main {
             System.out.println("nextInt < 5");
             System.out.println("!");
         }*/
-        int a = scanner.nextInt();
+        /*int a = scanner.nextInt();
         int b = scanner.nextInt();
         int c = scanner.nextInt();
         if (a > b)
@@ -22,7 +22,7 @@ public class Main {
 
         else if (b > c) System.out.println(b);
            else System.out.println();
-
+*/
         }
     }
 
