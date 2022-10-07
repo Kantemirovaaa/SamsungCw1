@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fa4d89f-f692-4c0d-b34a-b3ea8d01b9d2" name="Changes" comment="END">
+      <change beforePath="$PROJECT_DIR$/com/samsung/cw1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/samsung/cw1/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9c202405-f004-4761-af08-4e48c8b89905" />
+        <option name="url" value="https://github.com/Kantemirovaaa/SamsungCw1.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FOyO4L17HLxxSZvOL5OuSJCEyi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\GitHub\SamsungCw1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Fifth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.cw1.Fifth" />
+      <module name="SamsungCw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.cw1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.cw1.First" />
+      <module name="SamsungCw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.cw1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fourth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.cw1.Fourth" />
+      <module name="SamsungCw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.cw1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.cw1.Main" />
+      <module name="SamsungCw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.cw1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sixth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.cw1.Sixth" />
+      <module name="SamsungCw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samsung.cw1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.First" />
+        <item itemvalue="Application.Sixth" />
+        <item itemvalue="Application.Fifth" />
+        <item itemvalue="Application.Fourth" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fa4d89f-f692-4c0d-b34a-b3ea8d01b9d2" name="Changes" comment="" />
+      <created>1664377389702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664377389702</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1664378050459</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664378050459</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add">
+      <created>1664378155928</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664378155928</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add">
+      <created>1664468400549</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664468400549</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add">
+      <created>1664468473424</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664468473424</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add">
+      <created>1664469417274</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664469417274</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add">
+      <created>1664470162370</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664470162370</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add">
+      <created>1664471084355</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664471084355</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add">
+      <created>1664471191924</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664471191924</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add">
+      <created>1664471224652</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664471224652</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add">
+      <created>1664472406140</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664472406140</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add">
+      <created>1664472920829</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664472920829</updated>
+    </task>
+    <task id="LOCAL-00012" summary="END">
+      <created>1664473074997</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664473074997</updated>
+    </task>
+    <task id="LOCAL-00013" summary="END">
+      <created>1664655118086</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1664655118086</updated>
+    </task>
+    <task id="LOCAL-00014" summary="END">
+      <created>1664900286255</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1664900286255</updated>
+    </task>
+    <task id="LOCAL-00015" summary="END">
+      <created>1664901461962</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1664901461962</updated>
+    </task>
+    <task id="LOCAL-00016" summary="END">
+      <created>1664910032459</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1664910032459</updated>
+    </task>
+    <task id="LOCAL-00017" summary="END">
+      <created>1665067638926</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665067638926</updated>
+    </task>
+    <task id="LOCAL-00018" summary="END">
+      <created>1665068014607</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1665068014607</updated>
+    </task>
+    <task id="LOCAL-00019" summary="END">
+      <created>1665068024304</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1665068024304</updated>
+    </task>
+    <task id="LOCAL-00020" summary="END">
+      <created>1665068848674</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665068848674</updated>
+    </task>
+    <task id="LOCAL-00021" summary="END">
+      <created>1665069201427</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1665069201427</updated>
+    </task>
+    <task id="LOCAL-00022" summary="END">
+      <created>1665069384043</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1665069384043</updated>
+    </task>
+    <task id="LOCAL-00023" summary="END">
+      <created>1665071606224</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1665071606224</updated>
+    </task>
+    <task id="LOCAL-00024" summary="END">
+      <created>1665071710745</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1665071710745</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <MESSAGE value="END" />
+    <option name="LAST_COMMIT_MESSAGE" value="END" />
+  </component>
+</project>
