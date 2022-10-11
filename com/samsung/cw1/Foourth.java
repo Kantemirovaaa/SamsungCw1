@@ -4,11 +4,17 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class Foourth {
-    public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
-        sc.useLocale(Locale.US);
-        float x = sc.nextFloat();
-        float y = sc.nextFloat();
-        System.out.println(x * x - 2 < 0 && (x >= y && -x>= y) ? "YES":"NO");
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner (System.in);
+        scanner.useLocale(Locale.US);
+
+        float x = scanner.nextFloat();
+        float y = scanner.nextFloat();
+
+
+
+        System.out.println(y > x * x - 2 && ((x < 0 && y < -x) || (x >= 0 && y < x)) ? "YES" : "NO");
     }
+
 }
