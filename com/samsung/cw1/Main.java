@@ -13,9 +13,23 @@ public class Main {
 
     }
     public static void printArray(int[] array){
+        System.out.print("[");
         for(int i = 0; i < array.length; i ++){
             System.out.print(array[i] + ", ");
         }
         System.out.println(array[array.length - 1] + "]");
+    }
+    public static int max(int a, int b){
+        return a > b ? a : b;
+    }
+    public static String printArray1(int[] array){
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append("[");
+        for(int i : array){
+            stringBuilder.append(i).append(" ");
+        }
+        stringBuilder.append("]");
+        return stringBuilder.toString();
+
     }
 }
