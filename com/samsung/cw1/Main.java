@@ -4,15 +4,18 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt(), b = sc.nextInt();
-        int res = sum(a,b);
-        System.out.println(res);
+        int[] arr = {10, 19, 20, -100, 1000};
+        int[] arr1 = {101, 19, 19, 20, -100, 1000};
+        printArray(arr);
+        printArray(arr1);
+
 
 
     }
-    public static int sum(int a, int b){
-        int res = a + b;
-        return res;
+    public static void printArray(int[] array){
+        for(int i = 0; i < array.length; i ++){
+            System.out.print(array[i] + ", ");
+        }
+        System.out.println(array[array.length - 1] + "]");
     }
 }
