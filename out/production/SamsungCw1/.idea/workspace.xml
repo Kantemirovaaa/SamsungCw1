@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fa4d89f-f692-4c0d-b34a-b3ea8d01b9d2" name="Changes" comment="END">
-      <change afterPath="$PROJECT_DIR$/com/samsung/cw1/NumberDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/samsung/cw1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/samsung/cw1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/samsung/cw1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.cw1.Second" />
+    <configuration name="NumberDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.cw1.NumberDigits" />
       <module name="SamsungCw1" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Seventh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.samsung.cw1.Seventh" />
+    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samsung.cw1.Second" />
       <module name="SamsungCw1" />
       <extension name="coverage">
         <pattern>
@@ -120,10 +119,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.NumberDigits" />
         <item itemvalue="Application.Third" />
         <item itemvalue="Application.Second" />
         <item itemvalue="Application.FIrst" />
-        <item itemvalue="Application.Seventh" />
       </list>
     </recent_temporary>
   </component>
@@ -135,20 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664377389702</updated>
-    </task>
-    <task id="LOCAL-00007" summary="add">
-      <created>1664471084355</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1664471084355</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add">
-      <created>1664471191924</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1664471191924</updated>
     </task>
     <task id="LOCAL-00009" summary="add">
       <created>1664471224652</created>
@@ -479,7 +464,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666113541134</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="END">
+      <created>1666280791576</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1666280791576</updated>
+    </task>
+    <task id="LOCAL-00057" summary="END">
+      <created>1666281577409</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1666281577409</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
